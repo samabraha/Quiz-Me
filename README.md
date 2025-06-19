@@ -1,2 +1,2 @@
-# Quiz-Me
-QuizMe wants to quiz you.
+# HeelelDesk
+HeelelDesk Quiz App wants to quiz you.
